@@ -1,0 +1,7 @@
+package pageObjects;
+
+/**
+ * Created by rgovinakov on 4/4/2017.
+ */
+public class Opportunity {
+}
